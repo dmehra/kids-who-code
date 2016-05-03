@@ -9,6 +9,7 @@ Feel free to contribute by putting up a PR with more/better resources! I don't k
 ## Coding iPad Apps
 
 With my own kids, I found the iPad to be the ideal platform for beginning programmers for the following reasons:
+* often used by parents as an infanticide prevention device
 * decent apps exist that are fun, educational, and need minimal parental involvement
 * touchscreen drag-and-drop is much easier for little hands than mouse/keyboard controls
 * visual instruction primitives (e.g. arrows) in the apps make this an option for pre-readers.
